@@ -49,7 +49,7 @@ const Header = () => {
           }}
           className="font-heading text-xl font-bold tracking-tight"
         >
-          MB <span className="text-gold">LABS</span>
+          <img src="/logo.jpeg" alt="MB LABS" className="h-12 w-auto" />
         </a>
 
         {/* Desktop nav */}
