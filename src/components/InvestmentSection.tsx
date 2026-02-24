@@ -2,9 +2,9 @@ import { motion } from "framer-motion";
 import { BadgeDollarSign, CalendarClock, CreditCard } from "lucide-react";
 
 const items = [
-  { icon: BadgeDollarSign, label: "Projetos sob medida a partir de", value: "R$ 5.000" },
-  { icon: CreditCard, label: "Condição de pagamento", value: "50% na assinatura | 50% na entrega" },
-  { icon: CalendarClock, label: "Prazo médio de entrega", value: "20 a 40 dias" },
+  { icon: BadgeDollarSign, label: "Investimento", value: "Cada projeto é avaliado de forma personalizada" },
+  { icon: CreditCard, label: "Forma de pagamento", value: "As condições são alinhadas com você na proposta" },
+  { icon: CalendarClock, label: "Cronograma", value: "O prazo é definido conforme o escopo e prioridades" },
 ];
 
 const InvestmentSection = () => (

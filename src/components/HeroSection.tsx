@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
-import founderImg from "@/assets/founder.jpeg";
+import founderImg from "@/assets/founder.png";
 
 const WHATSAPP_URL = "https://wa.me/5561999148523";
 
